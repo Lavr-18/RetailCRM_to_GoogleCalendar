@@ -1,0 +1,6 @@
+# Файлы, которые не должны попасть в репозиторий
+.env
+credentials.json
+token.pickle
+.venv/
+__pycache__/
